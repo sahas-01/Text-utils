@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple Text Utils application to analyze the text written by a user. Built with a main focus of brushing up and implementing concepts that I have learnt in React JS. 
 
 ## Available Scripts
 
